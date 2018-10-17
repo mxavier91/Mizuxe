@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/mxavier91/Mizuxe/issues"
   },
-  "homepage": "https://github.com/mxavier91/Mizuxe#readme",
+  "homepage": "https://mxavier91.github.io/Mizuxe",
   "dependencies": {
     "gh-pages": "^2.0.1"
   }
